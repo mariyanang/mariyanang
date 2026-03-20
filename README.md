@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 About Me:
 
-<!--
-**mariyanang/mariyanang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-minded Senior Frontend Engineer with 10+ years of experience building high-performance scalable applications. Specialized in React/Vue and modern frontend infrastructure and reliability. Strong advocate for "Performance as a Feature". With a proven track record of cross-functional leadership in hypergrowth environments, leveraging AI-assisted workflows to accelerate delivery cycles.
 
-Here are some ideas to get you started:
+💻 Programming Languages: JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools: React, Vue, Redux, Pina, Node.js, Playwright, Jenkins, Babel, RESTful APIs, Webpack, Kafka, MongoDB, Nginx, MySQL, SQL, DevOps, JIRA, AI Coding Tools (GitHub Co-Pilot, Cursor)
+
+☁️ Cloud: CI/CD, Git, Gitlab, AWS S3, Docker, Kubernetes
+
+📊 Methodologies: SCRUM, Agile
+
+🌐 Interests: Microservice Architecture, Event-Driven Systems, Data-Rich Applications, Software Architecture, Distributed Systems, Cloud Computing, Containerization
