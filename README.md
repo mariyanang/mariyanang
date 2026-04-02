@@ -1,4 +1,4 @@
-👨‍💻 About Me: Senior Frontend Engineer with 10+ years of professional experience, successfully delivering high-performance, scalable web applications. Expert in JavaScript, TypeScript, React, and Vue. I specialize in component-based architecture, performance optimization and migrations. At Adyen, I designed and developed product analytics from the ground up, allowing data-driven roadmaps for 25+ teams across 10 applications.
+👨‍💻 About Me: Senior Frontend Engineer with 10+ years of professional experience, successfully delivering high-performance, scalable web applications. Expert in JavaScript, TypeScript, React, and Vue. I specialize in component-based architecture, performance optimization, and migrations. At Adyen, I designed and developed product analytics from the ground up, allowing data-driven roadmaps for 25+ teams across 10 applications.
 
 💻 Programming Languages: JavaScript, TypeScript, Java
 
